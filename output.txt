@@ -1,29 +1,29 @@
-██████████████    ████████  ██  ████        ██████████████
-██          ██  ████  ████████  ██      ██  ██          ██
-██  ██████  ██  ████████    ██      ████    ██  ██████  ██
-██  ██████  ██  ██          ██    ████      ██  ██████  ██
-██  ██████  ██    ██████  ██    ██████████  ██  ██████  ██
-██          ██    ██████  ████    ██    ██  ██          ██
-██████████████  ██  ██  ██  ██  ██  ██  ██  ██████████████
-                ██████  ████  ████                        
-██          ██  ██    ████  ██    ██  ██  ████    ██████  
-██  ████  ██        ██      ████    ████  ██  ████  ████  
-      ██    ██████  ██████    ████████    ██              
-██  ██████    ██  ████      ██  ██      ██  ████  ██      
-  ██  ████  ██          ██████████      ██  ████        ██
-  ██          ██    ██    ████████    ████  ██  ██    ████
-    ██████  ██    ████  ████████        ██    ██  ████    
-    ██  ██      ██████████████        ██    ██████  ██  ██
-  ████████  ████  ██    ██  ████████  ██  ██  ██  ████    
-██    ████    ██    ██        ████    ██    ██████  ██████
-████  ████  ██    ██  ██  ██████████  ██          ██    ██
-██  ██        ██████    ██  ██  ██  ██  ██  ██████        
-██    ██  ████  ██████████    ██████  ████████████  ██████
-                ██    ██  ██  ██    ██  ██      ████      
-██████████████      ██    ████████    ████  ██  ██████    
-██          ██    ██████  ██          ████      ██    ██  
-██  ██████  ██    ████  ████    ██  ████████████████    ██
-██  ██████  ██    ██      ██  ██████████████  ██  ████  ██
-██  ██████  ██    ██████  ████████    ██████████████████  
-██          ██    ████    ██  ████          ████  ████  ██
-██████████████  ████  ██  ██      ██  ██    ██████████    
+ABCDEABCDEABCD    EABCDEAB  CD  EABC        DEABCDEABCDEAB
+CD          EA  BCDE  ABCDEABC  DE      AB  CD          EA
+BC  DEABCD  EA  BCDEABCD    EA      BCDE    AB  CDEABC  DE
+AB  CDEABC  DE  AB          CD    EABC      DE  ABCDEA  BC
+DE  ABCDEA  BC    DEABCD  EA    BCDEABCDEA  BC  DEABCD  EA
+BC          DE    ABCDEA  BCDE    AB    CD  EA          BC
+DEABCDEABCDEAB  CD  EA  BC  DE  AB  CD  EA  BCDEABCDEABCDE
+                ABCDEA  BCDE  ABCD                        
+EA          BC  DE    ABCD  EA    BC  DE  ABCD    EABCDE  
+AB  CDEA  BC        DE      ABCD    EABC  DE  ABCD  EABC  
+      DE    ABCDEA  BCDEAB    CDEABCDE    AB              
+CD  EABCDE    AB  CDEA      BC  DE      AB  CDEA  BC      
+  DE  ABCD  EA          BCDEABCDEA      BC  DEAB        CD
+  EA          BC    DE    ABCDEABC    DEAB  CD  EA    BCDE
+    ABCDEA  BC    DEAB  CDEABCDE        AB    CD  EABC    
+    DE  AB      CDEABCDEABCDEA        BC    DEABCD  EA  BC
+  DEABCDEA  BCDE  AB    CD  EABCDEAB  CD  EA  BC  DEAB    
+CD    EABC    DE    AB        CDEA    BC    DEABCD  EABCDE
+ABCD  EABC  DE    AB  CD  EABCDEABCD  EA          BC    DE
+AB  CD        EABCDE    AB  CD  EA  BC  DE  ABCDEA        
+BC    DE  ABCD  EABCDEABCD    EABCDE  ABCDEABCDEAB  CDEABC
+                DE    AB  CD  EA    BC  DE      ABCD      
+EABCDEABCDEABC      DE    ABCDEABC    DEAB  CD  EABCDE    
+AB          CD    EABCDE  AB          CDEA      BC    DE  
+AB  CDEABC  DE    ABCD  EABC    DE  ABCDEABCDEABCDEA    BC
+DE  ABCDEA  BC    DE      AB  CDEABCDEABCDEA  BC  DEAB  CD
+EA  BCDEAB  CD    EABCDE  ABCDEABC    DEABCDEABCDEABCDEA  
+BC          DE    ABCD    EA  BCDE          ABCD  EABC  DE
+ABCDEABCDEABCD  EABC  DE  AB      CD  EA    BCDEABCDEA    
