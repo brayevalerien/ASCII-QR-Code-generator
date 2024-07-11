@@ -33,5 +33,5 @@ options:
                         Error correction level of the generated QR code.
 ```
 
-> [!TIP] Character selection
+> [!TIP]
 > Use characters that are dark enough (e.g. `#` is dark, `.` is light) to ensure the resulting QR code is scannable.
