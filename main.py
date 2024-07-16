@@ -1,5 +1,6 @@
 import argparse
 from random import randint
+import os
 
 import qrcode
 
@@ -94,6 +95,8 @@ def print_output(qr_ascii: list[str], filepath: str = None) -> None:
     if filepath is None:
         print(output)
     else:
+        parent_dir = os.path.dirname(filepath)
+        os.makedirs(parent_dir, exist_ok=True)
         with open(filepath, "w+", encoding="utf-8") as f:
             f.write(output)
 
